@@ -1,0 +1,26 @@
+{
+  "name": "mern-starter",
+  "version": "0.1.0",
+  "description": "React Express starter pack with",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/dybdaltech/resp"
+  },
+  "keywords": [
+    "React",
+    "Express"
+  ],
+  "author": "dybdaltecgh",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^3.5.1",
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.14.7"
+  }
+}
